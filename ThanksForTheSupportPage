@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> ThanksForTheSupportPage </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <h1> Thank you so much for your support! Also don't forget to join our discord server https://discord.com/invite/AasatNamn8 </h1>
+</body>
+</html>
